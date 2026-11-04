@@ -101,9 +101,18 @@
       "paidBy": "hjm"
     }
   ],
-  "expensePayments": [],
+  "expensePayments": [
+    {
+      "member": "haa",
+      "date": "2026-11-04",
+      "amount": 100.49,
+      "note": "دفع عزبة من أبو علي",
+      "id": "rmw1udjy7gkej",
+      "by": "حسين"
+    }
+  ],
   "meta": {
-    "updatedAt": "2026-11-04T07:13:37.327Z",
-    "by": "import from Excel"
+    "updatedAt": "2026-11-04T08:15:33.018Z",
+    "by": "حسين"
   }
 }
