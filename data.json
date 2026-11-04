@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "contract": {
+    "start": "2026-10-14",
+    "end": "2027-10-13",
+    "totalRent": 30700,
+    "label": "أجار سنة كاملة — 14 أكتوبر 2026 إلى 13 أكتوبر 2027"
+  },
+  "members": [
+    {
+      "key": "haa",
+      "name": "Hussain Alahmed",
+      "abbr": "HAA",
+      "ini": "HA",
+      "role": "tenant",
+      "color": "#4f8ef7"
+    },
+    {
+      "key": "siraj",
+      "name": "Siraj Quraish",
+      "abbr": "Siraj",
+      "ini": "SQ",
+      "role": "tenant",
+      "color": "#2ea44f"
+    },
+    {
+      "key": "hjm",
+      "name": "Hussain Almoghalliq",
+      "abbr": "HJM",
+      "ini": "HM",
+      "role": "hub",
+      "color": "#a78bfa"
+    }
+  ],
+  "rentCredits": [
+    {
+      "id": "c1",
+      "member": "haa",
+      "date": "2026-10-01",
+      "amount": 162.64,
+      "note": "مسترجع من أجار مدة أكتوبر 2025 إلى أكتوبر 2026"
+    },
+    {
+      "id": "c2",
+      "member": "siraj",
+      "date": "2026-10-01",
+      "amount": 1899.39,
+      "note": "مسترجع من أجار مدة أكتوبر 2025 إلى أكتوبر 2026"
+    }
+  ],
+  "rentPayments": [
+    {
+      "id": "p1",
+      "member": "haa",
+      "date": "2026-09-28",
+      "amount": 4954.36,
+      "note": "دفعة للأجار"
+    },
+    {
+      "id": "p2",
+      "member": "siraj",
+      "date": "2026-09-27",
+      "amount": 3217.61,
+      "note": "دفعة للأجار"
+    }
+  ],
+  "expenses": [],
+  "expensePayments": [],
+  "meta": {
+    "updatedAt": "2026-11-04T07:00:47.305Z",
+    "by": "initial"
+  }
+}
