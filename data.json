@@ -125,10 +125,17 @@
       "note": "دفع عزبة اكتوبر 2026",
       "id": "rmwa9sl4ua28n",
       "by": "حسين"
+    },
+    {
+      "member": "haa",
+      "date": "2026-11-10",
+      "amount": 100,
+      "id": "rmwa9uvb7f7r9",
+      "by": "data.json"
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-10T05:50:15.851Z",
-    "by": "حسين"
+    "updatedAt": "2026-11-10T05:51:03.896Z",
+    "by": "data.json"
   }
 }
