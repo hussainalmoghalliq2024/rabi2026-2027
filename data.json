@@ -99,6 +99,14 @@
       "desc": "ماء",
       "amount": 2,
       "paidBy": "hjm"
+    },
+    {
+      "date": "2026-11-10",
+      "desc": "ماء",
+      "amount": 3.5,
+      "paidBy": "hjm",
+      "id": "rmwa9ttvxtqf8",
+      "by": "حسين"
     }
   ],
   "expensePayments": [
@@ -120,7 +128,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-10T05:49:17.388Z",
+    "updatedAt": "2026-11-10T05:50:15.851Z",
     "by": "حسين"
   }
 }
