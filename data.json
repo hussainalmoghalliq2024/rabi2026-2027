@@ -107,6 +107,14 @@
       "paidBy": "hjm",
       "id": "rmwa9ttvxtqf8",
       "by": "حسين"
+    },
+    {
+      "date": "2026-11-12",
+      "desc": "فاتورة كهرباء - نوفمبر",
+      "amount": 229.71,
+      "paidBy": "hjm",
+      "id": "rmwdmfklcv2p0",
+      "by": "حسين"
     }
   ],
   "expensePayments": [
@@ -128,7 +136,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-10T05:51:16.199Z",
-    "by": "data.json"
+    "updatedAt": "2026-11-12T14:06:25.070Z",
+    "by": "حسين"
   }
 }
