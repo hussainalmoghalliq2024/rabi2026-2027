@@ -115,6 +115,13 @@
       "paidBy": "hjm",
       "id": "rmwdmfklcv2p0",
       "by": "حسين"
+    },
+    {
+      "date": "2026-11-14",
+      "desc": "كلينكس مع ماء",
+      "amount": 43.9,
+      "paidBy": "haa",
+      "id": "rmwgi19xc3mwf"
     }
   ],
   "expensePayments": [
@@ -136,7 +143,7 @@
     }
   ],
   "meta": {
-    "updatedAt": "2026-11-12T14:06:25.070Z",
-    "by": "حسين"
+    "updatedAt": "2026-11-14T14:26:38.085Z",
+    "by": ""
   }
 }
